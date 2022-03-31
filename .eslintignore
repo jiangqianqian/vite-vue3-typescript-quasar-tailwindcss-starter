@@ -1,0 +1,8 @@
+node_modules
+dist
+
+# 自动生成的
+types/components.d.ts
+types/auto-imports.d.ts
+
+.DS_Store
